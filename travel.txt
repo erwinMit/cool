@@ -2,6 +2,7 @@ packing list
 --------------
 - Shirt
 - Pants
+- Passport
 
 Picnic
 --------------
